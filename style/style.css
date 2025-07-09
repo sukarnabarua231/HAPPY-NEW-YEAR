@@ -1,0 +1,61 @@
+body{
+    border:2px solid black;
+    width: 85%;
+    max-width: 1350px;
+    margin: 0 auto;
+}
+header{
+    background:linear-gradient(to bottom, rgba(7, 2, 17, 1), transparent),  url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+    border: 2px solid red;
+    width: 100%;
+   max-width: 1350px;
+    height: 500px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+}
+.banner
+{
+    
+    margin-top: 150px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size:larger;
+    font-weight: 800;
+    
+
+    
+}
+.section-01{
+    border: 2px solid blue;
+    max-width: 800px;
+    max-height: 700px;
+    margin: 100px auto;
+    text-align: center;
+    font-size: x-large;
+    
+} 
+.image-new-year{
+    width: 650px;
+    height: 300px;
+}
+.section-02{
+     border: 2px solid red;
+    width: 100%;
+   max-width: 1350px;
+    height: 500px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background:linear-gradient(to right, rgba(7, 2, 17, 1), transparent), url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 120px;
+    }
+   
